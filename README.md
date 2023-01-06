@@ -1,0 +1,1 @@
+Minimalistyczne, zminifikowany projekt statycznej strony - Portfolio.
